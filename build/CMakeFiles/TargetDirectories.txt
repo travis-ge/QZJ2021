@@ -1,0 +1,3 @@
+/home/pi/workspace/QZJ/build/CMakeFiles/rebuild_cache.dir
+/home/pi/workspace/QZJ/build/CMakeFiles/QZJ.dir
+/home/pi/workspace/QZJ/build/CMakeFiles/edit_cache.dir

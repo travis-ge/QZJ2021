@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/workspace/QZJ/main.cpp
+iostream
+-
+opencv2/opencv.hpp
+-
+wiringSerial.h
+/home/pi/workspace/QZJ/wiringSerial.h
+unistd.h
+-
+

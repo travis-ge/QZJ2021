@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="ares (ab8cc505-37cf-4c8d-ab61-8b403bfafc5f)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.gXzRPXT7ec" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/build" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="pi15 (465cee26-b924-416c-8a55-6b7d424fefee)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pi/workspace/QZJ" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/build" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
