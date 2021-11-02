@@ -1,4 +1,4 @@
-CMake executable not found: /usr/bin/cmake Configure Disable profile
-
-Cannot get compiler information:
-	Unable to create a temporary file
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /home/pi/workspace/QZJ
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/pi/workspace/QZJ/build
